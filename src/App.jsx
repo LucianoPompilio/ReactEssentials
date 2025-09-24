@@ -17,7 +17,7 @@ function Header () {
         <h1>React Essentials</h1>
         <p id="titulo">
           {reactDescriptions[genRandomInt(2)]} React concepts you will need for almost any app you are
-          going to build! Luciano
+          going to build! 
         </p>
       </header>
   )
